@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **MERN, PHP**
 
-- 📫 How to reach me **vimukthi5859@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
