@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vimukthikothalawala&label=Profile%20views&color=0e75b6&style=flat" alt="vimukthikothalawala" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 Reach me on [Fiverr](https://www.fiverr.com/vimukthi_koth).
 
 - 💬 Ask me about **MERN, PHP**
 
